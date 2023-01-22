@@ -40,14 +40,14 @@ By looking at the Fingertips map, you can easily go to places where the probabal
 The lure and usefulness of the app depends, besides an attractive and functional user interface, largely on getting quality data and processing it the way that it gives meaningful match results.
 
 Data sources:
-Personal data about users and their preferences provided by users though questionnaires and open-ended questions 
-Data about users' location provided by the location service's on user's phone. 
+* Personal data about users and their preferences provided by users though questionnaires and open-ended questions 
+* Data about users' location provided by the location service's on user's phone. 
 
 AI techniques:
-For collecting data from questionnaires: linear regression, nearest neighbor method? 
-For collecting data from open-ended questions: TF-IDF, word2vec 
-For collecting data about user's location, excluding the areas on the map that each user wants to exclude: no AI needed but maybe it could be useful? 
-For combining the user's location with the user's preferences and calculating the probability that any two users would match and on which percentage they would match: optimization methods such as simulated annealing, neural networks? 
+* For collecting data from questionnaires: linear regression, nearest neighbor method? 
+* For collecting data from open-ended questions: TF-IDF, word2vec 
+* For collecting data about user's location, excluding the areas on the map that each user wants to exclude: no AI needed but maybe it could be useful? 
+* For combining the user's location with the user's preferences and calculating the probability that any two users would match and on which percentage they would match: optimization methods such as simulated annealing, neural networks? 
 
 ## Challenges
 
