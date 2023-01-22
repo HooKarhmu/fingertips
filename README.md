@@ -66,6 +66,6 @@ Is the idea of your match being close to you motivational enough to find the cou
 
 The idea behind this app, combining user-provided data to location services to find matching people, could be used also in other uses than dating, especially if it would be expanded to include future predictions of probability.
 
-It can have more commercial applications, such as that any venue (e.g. club, museum, shop) could use it to draw in customers by promising them a higher than average probability of matches. It could also be used in social sciences in for example in predicting how a new area of a city will be used and enjoyed by people, or in predicting occurrence of any other event or series of events in a specific location or locations, supposing that user input end user's location data can be collected.
+It can have more commercial applications, such as that any venue (e.g. club, museum, shop) could use it to draw in customers by promising them a higher than average probability of matches, or telling the customer at which hours and which days they have the high probabalility to meet people they match with (romantically, friend-wise, hobby-wise, etc.) It could also be used in social sciences for example in predicting how a new area of a city will be used and enjoyed by people, or in predicting occurrence of any other event or series of events in a specific location or locations, supposing that user input end user's location data can be collected.
 
 
