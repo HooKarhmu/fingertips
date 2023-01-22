@@ -16,7 +16,7 @@ Fingertips is not an app for meeting people online. It's an app to motivate peop
 
 The difference between Fingertips and other dating apps is that in Fingertips, the user doesn't have a profile that would be visible to other users. Users can't see photos of each other, read about each other or contact each other through Fingertips. What Fingertips does is that it gives you a map to see where people that you match well are at the moment. It also gives you notifications, if someone you match really well with is near. In a way it's a bit like Pokemon GO for all us longing to meet someone interesting in real life.
 
-I think it's interesting and desirable to try to develop solutions that make people engage more with each other in real life and that make us think human relationships as not something to optimize but something to be open about and take a chance on. On personal level, as someone who doesn't like online dating, I have at times wondered where the heck all the intelligent, curious, kind-hearted guys spend their time. If this app would exist, I would love to use it.
+I think it's interesting and desirable to try to develop solutions which make people engage more with each other in real life and which make us think human relationships as not something to optimize but something to be open about and take a chance on. On personal level, as someone who doesn't like online dating, I have at times wondered where the heck all the intelligent, curious, kind-hearted guys spend their time. If this app would exist, I would love to use it.
 
 The name fingertips comes from the expression “at fingertips”, meaning “being readily available”.
 
